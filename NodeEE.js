@@ -27,3 +27,4 @@ people.forEach(function(persone){
   });
 });
 wiame.emit('speak','hey dudes');
+nora.emit('speak','hey boys how are yaa !!');
